@@ -1,4 +1,4 @@
-# Arma3 Realistic Names
+# Arma 3 Realistic Names
 
 This project aims to provide a small mod that changes the names of Weapons, Vehicles and Gear in Arma 3 to their real life names. Since this is a feature of [ACE3](https://github.com/acemod/ACE3) already, this mod makes use of it by simply stripping it out and distributing it standalone. 
 
