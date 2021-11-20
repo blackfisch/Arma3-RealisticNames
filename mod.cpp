@@ -1,0 +1,14 @@
+name 			= "blackfisch's Realistic Names";
+author 		    = "blackfisch";
+logo 			= "";
+logoOver 		= "";
+tooltip 		= "blackfisch's Realistic Names";
+tooltipOwned 	= "blackfisch's Realistic Names";
+picture 		= "";
+actionName 	    = "GitHub";
+action 		    = "https://github.com/blackfisch/Arma3-RealisticNames";
+overview 		= "This mod changes all names of gear and vehicles to their real life counterparts. Thanks to ACE3 for the work.";
+hideName 		= 0;
+hidePicture	    = 0;	// Hide the extension menu
+dlcColor[] 	    = {0.298,0.592,0.306,1};
+logoSmall 		= "";
